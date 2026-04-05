@@ -1,5 +1,5 @@
 {
-  "name": "userscripts",
+  "name": "tampermonkey-helloworld",
   "version": "0.1.0",
   "private": true,
   "type": "module",
