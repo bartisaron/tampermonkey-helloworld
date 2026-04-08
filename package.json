@@ -1,6 +1,6 @@
 {
-  "name": "tampermonkey-helloworld",
-  "version": "0.1.0",
+  "name": "vanenet-hello",
+  "version": "0.1.1",
   "private": true,
   "type": "module",
   "scripts": {

@@ -1,5 +1,5 @@
 const banner = document.createElement("div");
-banner.textContent = "👋 Hello from your userscript v0.1.0!";
+banner.textContent = "👋Hello from your userscript v0.1.1!";
 banner.style.cssText = `
   position: fixed;
   top: 16px;

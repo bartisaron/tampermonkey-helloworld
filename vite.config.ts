@@ -8,14 +8,14 @@ export default defineConfig({
       userscript: {
         name: "Vanenet Hello World",
         namespace: "https://github.com/bartisaron/tampermonkey-helloworld",
-        version: "0.1.0",
+        version: "0.1.1",
         description: "Hello World on vanenet.hu",
-        author: "You",
+        author: "bartisaron",
         match: ["https://vanenet.hu/*", "https://www.vanenet.hu/*"],
         updateURL:
-          "https://bartisaron.github.io/tampermonkey-helloworld/vanenet-hello.user.js",
+          "https://bartisaron.github.io/tampermonkey-helloworld/tampermonkey-helloworld.user.js",
         downloadURL:
-          "https://bartisaron.github.io/tampermonkey-helloworld/vanenet-hello.user.js",
+          "https://bartisaron.github.io/tampermonkey-helloworld/tampermonkey-helloworld.user.js",
         grant: "none",
       },
     }),
