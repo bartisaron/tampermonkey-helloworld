@@ -8,7 +8,7 @@ export default defineConfig({
       userscript: {
         name: "Vanenet Hello World",
         namespace: "https://github.com/bartisaron/tampermonkey-helloworld",
-        version: "0.1.1",
+        version: "0.1.2",
         description: "Hello World on vanenet.hu",
         author: "bartisaron",
         match: ["https://vanenet.hu/*", "https://www.vanenet.hu/*"],
